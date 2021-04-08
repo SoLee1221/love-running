@@ -74,8 +74,6 @@ h1, h2 {
     width: 100%;
     background: url('/images/hero-image.webp') no-repeat center center;
 
-    position: relative;
-
     /* animates zoom effect on loading page*/
     animation-name: hero-zoom;
     animation-duration: 5s;
